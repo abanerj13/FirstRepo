@@ -1,1 +1,3 @@
 Trying to commit to git from WSL
+Checking for git push without username and password requirement
+
